@@ -9,5 +9,4 @@ IMDB Web Links were collected for all the genres(Action, Animation, Biography, C
 
 Extracted Raw Data
 
-The 32135 Movie titles extracted were parsed into different columns which were namely: Ranking, Movie Title, Release Year, Movie Duration, Primary Genre, Sub Genres (Non-Primary Genres), User Rating, User Votes![image](https://user-images.githubusercontent.com/73734221/216719120-e5fe6c0b-b68b-4e04-86bd-5ba4156c878a.png)
-
+The 32135 Movie titles extracted were parsed into different columns which were namely: Ranking, Movie Title, Release Year, Movie Duration, Primary Genre, Sub Genres (Non-Primary Genres), User Rating, User Votes!
